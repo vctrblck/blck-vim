@@ -10,7 +10,7 @@ vim.g.maplocalleader = " "
 vim.keymap.set("i", "jk", "<Escape>", options)
 
 -- Launch Netrw
-vim.keymap.set("n", "<Leader>fvf", vim.cmd.Ex)
+vim.keymap.set("n", "<Leader>fvf", ":Telescope file_browser<CR>", options)
 
 -- Find file
 vim.keymap.set("n", "<Leader>fff", require("telescope.builtin").find_files, {})
