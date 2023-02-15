@@ -13,8 +13,8 @@
 1. [Preface](#preface)
 2. [Features](#features)
 3. [Getting Started](#getting-started)
-  - [Pre-requisites](#pre-requisites)
-  - [Installation](#installation)
+    1. [Pre-requisites](#pre-requisites)
+    2. [Installation](#installation)
 4. [Credits](#credits)
 
 ## Preface
