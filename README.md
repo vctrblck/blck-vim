@@ -52,7 +52,7 @@ git clone https://github.com/blck-nvim/blck-nvim.git ~/.config/nvim
 
 ### `clangd` headers not found (on Ubuntu 22.04)
 
-Run
+Install the missing packages:
 
 ```sh
 sudo apt install libstdc++-12-dev
