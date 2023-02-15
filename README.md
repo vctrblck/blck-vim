@@ -1,6 +1,6 @@
 <div align="center">
 
-# prgn-nvim
+# blck-vim
 
 ![Neovim](https://img.shields.io/badge/Neovim-v0.8+-57A143?style=flat-square&logo=neovim)
 ![Release](https://img.shields.io/github/v/release/prgn-nvim/prgn-nvim?label=Release&style=flat-square)
@@ -19,7 +19,7 @@
 
 ## Preface
 
-`prgn-nvim` aims to be a **modular** [@Neovim](https://github.com/neovim/neovim) configuration.
+`blck-nvim` aims to be a **modular** [@Neovim](https://github.com/neovim/neovim) configuration.
 
 ## Features
 
@@ -45,7 +45,7 @@
 Clone the repository into your system's configuration directory.
 
 ```sh
-git clone https://github.com/prgn-nvim/prgn-nvim.git ~/.config/nvim
+git clone https://github.com/blck-nvim/blck-nvim.git ~/.config/nvim
 ```
 
 ## Troubleshooting
