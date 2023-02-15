@@ -3,7 +3,7 @@
 # blck-vim
 
 ![Neovim](https://img.shields.io/badge/Neovim-v0.8+-57A143?style=flat-square&logo=neovim)
-![Release](https://img.shields.io/github/v/release/vctrblck/blck-nvim?label=Release&style=flat-square)
+![Release](https://img.shields.io/github/v/release/vctrblck/blck-vim?label=Release&style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-important?style=flat-square)
 
 </div>
