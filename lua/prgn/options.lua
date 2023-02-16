@@ -26,8 +26,8 @@ vim.opt.pumwidth = 20
 vim.opt.foldmethod = "expr"
 vim.opt.foldexpr = "nvim_treesitter#foldexpr()"
 
--- Enable automatic folding
-vim.opt.foldclose = "all"
+-- Enable automatic folding (Current configuration is a bit buggy)
+--vim.opt.foldclose = "all"
 --vim.opt.foldopen = "all"
 
 -- Disable automatic comment insertion
